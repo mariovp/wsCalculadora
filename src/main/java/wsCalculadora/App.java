@@ -10,6 +10,12 @@ public class App {
 
         System.out.println("Calculadora");
         System.out.println("===========");
+
+        System.out.println("2+3="+c.suma(2, 3));
+        System.out.println("5*2="+c.multiplica(5, 2));
+        System.out.println("5-2="+c.resta(5, 2));
+        System.out.println("4/2="+c.divide(4, 2));
+        
     }
 
 }
