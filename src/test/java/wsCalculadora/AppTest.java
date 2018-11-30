@@ -32,4 +32,9 @@ public class AppTest {
         assertTrue(c.multiplica(2,5)==10);
     }
 
+    @Test
+    public void testDivision() {
+        assertTrue(c.divide(4,2)==2);
+    }
+
 }
