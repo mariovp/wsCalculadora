@@ -37,4 +37,12 @@ public class AppTest {
         assertTrue(c.divide(4,2)==2);
     }
 
+    @Test
+    public void testApp() {
+        assertTrue(c.suma(2,3)==5);
+        assertTrue(c.resta(5,2)==3);
+        assertTrue(c.multiplica(2,5)==10);
+        assertTrue(c.divide(4,2)==2);
+    }
+
 }
