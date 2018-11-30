@@ -22,4 +22,9 @@ public class AppTest {
         assertTrue(c.suma(2,3)==5);
     }
 
+    @Test
+    public void testResta() {
+        assertTrue(c.resta(5,2)==3);
+    }
+
 }
