@@ -27,4 +27,9 @@ public class AppTest {
         assertTrue(c.resta(5,2)==3);
     }
 
+    @Test
+    public void testMultiplicacion() {
+        assertTrue(c.multiplica(2,5)==10);
+    }
+
 }
