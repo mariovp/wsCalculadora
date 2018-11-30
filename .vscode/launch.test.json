@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "wsCalculadora",
+                "projectName": "wsCalculadora",
+                "workingDirectory": "/Users/mario/Projects/wsCalculadora",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "wsCalculadora",
+                "projectName": "wsCalculadora",
+                "workingDirectory": "/Users/mario/Projects/wsCalculadora",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
