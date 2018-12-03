@@ -1,4 +1,4 @@
-package wsCalculadora;
+package myApp;
 
 public class Calculadora {
 
